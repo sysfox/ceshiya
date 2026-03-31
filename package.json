@@ -46,7 +46,7 @@
     "@ant-design/pro-form": "^1.43.0",
     "@ant-design/pro-layout": "^6.26.0",
     "@ant-design/pro-table": "^2.56.0",
-    "@cloudbase/js-sdk": "^1.7.1",
+    "@cloudbase/js-sdk": "^2.0.0",
     "@cloudbase/node-sdk": "^2.7.1",
     "@umijs/route-utils": "^2.0.3",
     "antd": "^4.16.13",
